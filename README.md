@@ -1,8 +1,4 @@
-নিশ্চয়ই\! আপনার চাওয়া অনুযায়ী `README.md` ফাইলটি Markdown ফরম্যাটে নিচে দেওয়া হলো।
 
------
-
-````markdown:project ReadMe:README.md
 # 📚 Student Eligibility System
 _A simple Python program to check if a student is eligible for an exam._
 
